@@ -9,8 +9,7 @@ Make sure you check the legal terms for each of my repos before using any of the
 
 ## My social medias
 
-<a href="https://twitter.com/Rigner1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Rigner1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-[![Discord](https://img.shields.io/discord/299564448815775744.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9wEeCPZYcp)
+[![Discord](https://img.shields.io/discord/299564448815775744.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9wEeCPZYcp)  
 *More to come...*
 
 ## Donate
@@ -23,5 +22,6 @@ If you have some spare money, consider clicking this cute cat to donate for the 
 ## Some stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=psnrigner&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="My github stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psnrigner&hide_border=true&theme=dracula" alt="">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psnrigner&hide_border=true&theme=dracula" alt="">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=PSNRigner)](https://github.com/ryo-ma/github-profile-trophy)
