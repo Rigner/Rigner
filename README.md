@@ -24,4 +24,4 @@ If you have some spare money, consider clicking this cute cat to donate for the 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=psnrigner&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="My github stats">-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psnrigner&hide_border=true&theme=dracula" alt="">-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PSNRigner)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rigner)](https://github.com/ryo-ma/github-profile-trophy)
