@@ -1,6 +1,6 @@
 ## Welcome to my github!
 
-I am a 27 years old french developer, working on video game development, especially Minecraft.
+I am a 28 years old french developer, working on video game development, especially Minecraft.
 
 Here, you will mainly find random Minecraft projects and also very old school exercises that I decided to make public.
 
